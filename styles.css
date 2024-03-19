@@ -277,11 +277,15 @@ main{
 footer{
     height: 100px;
     width: 100%;
-    background-color: #45BD1D;
+    /*background-color: #45BD1D;*/
+    display: flex ;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    
+    margin-top: 50px;
 }
 
 .datajofra{
     margin: 0px;
+    font-size: 13px;
 }
