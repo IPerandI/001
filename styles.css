@@ -280,6 +280,22 @@ main{
     margin-right: 20px;
     margin-bottom: 20px;
 }
+/*mantCor*/
+.imgTituloCor{
+    width: 220px;
+    height: 315px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+/*mantPred*/
+.imgTituloPred{
+    width: 225px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
 
 /*footer*/
 footer{
