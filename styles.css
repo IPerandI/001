@@ -299,7 +299,7 @@ main{
     /*PagNosotros*/
 
 .imgOSCE{
-    float: right;  
+    float:inline-end;
 }
 
 
