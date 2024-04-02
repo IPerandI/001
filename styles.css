@@ -302,6 +302,16 @@ main{
     float:inline-end;
 }
 
+/*Pag-servicios*/
+/*asesoria*/
+
+.imgTituloAsesoria{
+    width: 350px;
+    height: 260px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
 
 /*footer*/
 footer{
