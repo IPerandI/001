@@ -322,6 +322,13 @@ main{
     margin-bottom: 20px;
 }
 
+.imgTituloAnaRed{
+    width: 230px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
 /*footer*/
 footer{
     height: 100px;
