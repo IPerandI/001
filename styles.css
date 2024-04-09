@@ -330,12 +330,25 @@ main{
 }
 
 .imgTituloTtr{
-    width: 238px;
+    width: 236px;
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
 }
 
+.imgTituloMeg{
+    width: 237px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+/*datos megohmetro*/
+.imgMegRatio{
+    width: 209px;
+    float: inline-end;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
 
 
 /*footer*/
