@@ -329,6 +329,15 @@ main{
     margin-bottom: 20px;
 }
 
+.imgTituloTtr{
+    width: 238px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+
 /*footer*/
 footer{
     height: 100px;
