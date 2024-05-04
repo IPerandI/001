@@ -336,6 +336,7 @@ main{
     margin-bottom: 20px;
 }
 
+/*datos megohmetro*/
 .imgTituloMeg{
     width: 237px;
     float: left;
@@ -371,6 +372,13 @@ main{
     margin-bottom: 20px;
 }
 
+/*datos Telurometro*/
+.imgTelu{
+    width: 237px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
 
 /*footer*/
 footer{
