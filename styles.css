@@ -350,6 +350,27 @@ main{
     margin-bottom: 20px;
 }
 
+.imgMinima{
+    width: 226px;
+    float: inline-end;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.imgValAcept{
+    width: 460px;
+    float: inline-end;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.imgMeg-2{
+    width: 285px;
+    float: inline-end;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
 
 /*footer*/
 footer{
