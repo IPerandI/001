@@ -374,7 +374,15 @@ main{
 
 /*datos Telurometro*/
 .imgTelu{
-    width: 237px;
+    width: 292px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+/*datos Miliohmimetro*/
+.imgMili{
+    width: 273px;
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
