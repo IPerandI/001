@@ -390,7 +390,7 @@ main{
 
 /*datos Espinterometro*/
 .imgEsp{
-    width: 273px;
+    width: 268px;
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
@@ -398,12 +398,19 @@ main{
 
 /*datos Reg aceite Dielectrico*/
 .ImgRegAce{
-    width: 273px;
+    width: 242px;
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
 }
 
+/*datos Maquina bobinadora*/
+.ImgMaqBob{
+    width: 317px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
 
 
 
