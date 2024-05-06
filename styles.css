@@ -395,6 +395,18 @@ main{
     margin-right: 20px;
     margin-bottom: 20px;
 }
+
+/*datos Reg aceite Dielectrico*/
+.ImgRegAce{
+    width: 273px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
 /*footer*/
 footer{
     height: 100px;
