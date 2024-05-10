@@ -433,6 +433,29 @@ main{
     margin-bottom: 20px;
 }
 
+/*datos Horno*/
+.ImgTituloHor{
+    width: 241px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+/*datos pinza*/
+.ImgTituloPinza{
+    width: 138px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+/*datos arenador*/
+.ImgTituloArena{
+    width: 250px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
 
 
 /* datos contacto*/
