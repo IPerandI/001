@@ -53,6 +53,7 @@ nav {
     display: flex;
     justify-content: center;
     margin-top: 0px;
+
     /*margin-bottom: 2px;*/
 }
 
@@ -272,6 +273,34 @@ nav ul.navigation-menu li:hover ul li:nth-child(13) {
     width: 1300px;
 }
 
+
+/* banner prueba*/
+.bannerMaster{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.banner{
+    display: flex;
+    width: 1300px;
+    height: 430px;
+    
+}
+
+.banner img{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: .8;
+    transition: .5s ease;
+}
+
+.banner img:hover{
+    cursor: crosshair;
+    width: 200px;
+    opacity: 1;
+    filter: contrast(120%);
+}
 /*contenido*/
 main{
     max-width: 1300px;
