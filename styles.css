@@ -53,7 +53,7 @@ nav {
     display: flex;
     justify-content: center;
     margin-top: 0px;
-
+    /*z-index: 20;*/
     /*margin-bottom: 2px;*/
 }
 
@@ -67,6 +67,7 @@ nav ul.navigation-menu {
     width: 1300px;
     border-radius: 5px;
     box-shadow: 1px 1px 10px 3px rgba(0, 0, 0, 0.1);
+    z-index: 25;
 }
 
 nav ul.navigation-menu li {
@@ -279,11 +280,12 @@ nav ul.navigation-menu li:hover ul li:nth-child(13) {
     display: flex;
     justify-content: center;
     width: 100%;
+    /*z-index: 30;*/
 }
 .banner{
     display: flex;
     width: 1300px;
-    height: 430px;
+    height: 400px;
     
 }
 
@@ -291,7 +293,7 @@ nav ul.navigation-menu li:hover ul li:nth-child(13) {
     width: 0px;
     flex-grow: 1;
     object-fit: cover;
-    opacity: .8;
+    opacity: .9;
     transition: .5s ease;
 }
 
